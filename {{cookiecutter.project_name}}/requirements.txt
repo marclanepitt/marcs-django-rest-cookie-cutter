@@ -31,7 +31,7 @@ factory-boy==2.10.0
 Faker==0.8.11
 google-api-python-client==1.6.5
 gunicorn==19.7.1
-httplib2==0.10.3
+httplib2==0.18.0
 identify==1.0.7
 idna==2.6
 ipython-genutils==0.2.0
