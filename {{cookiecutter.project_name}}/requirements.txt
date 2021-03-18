@@ -48,7 +48,7 @@ packaging==17.1
 parso==0.1.1
 pexpect==4.4.0
 pickleshare==0.7.4
-Pillow==5.0.0
+Pillow==8.1.1
 pip-upgrader==1.4.4
 pre-commit==1.7.0
 prompt-toolkit==1.0.15
