@@ -2,7 +2,7 @@ raven>=3
 asn1crypto==0.24.0
 aspy.yaml==1.0.0
 cached-property==1.4.0
-certifi==2018.1.18
+certifi==2022.12.7
 cffi==1.11.5
 cfgv==1.0.0
 chardet==3.0.4
